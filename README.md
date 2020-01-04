@@ -1,8 +1,8 @@
 
-<h1 align="center">Haskell Prac</h1>
+<h1 align="center">today_menu</h1>
 
 ## description
-This is a repository to study haskell
+awsとslackで今日の献立を適当に決めてくれるのを作る！
 
 <a href="LICENSE">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT">
